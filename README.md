@@ -1,6 +1,6 @@
 #Bioinformatics Resources 
 
-![alt text](https://github.com/BioinformaticsGRX/resources/edit/master)
+[alt text](https://github.com/BioinformaticsGRX/resources/blob/master/logobio.jpg)
 
 #####English
 This repository hopes to be a source of varied material about C.S., biology and bioinformatics that appear in our telegram's group, meetings and workshops.
